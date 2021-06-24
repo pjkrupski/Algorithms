@@ -1,0 +1,32 @@
+BEFORE
+
+
+How often do you get a solution in fewer than 20 guesses? 
+almost never. Initial try yielded 0/4 results
+
+Does this change depending on the theory you test (1, 2, 3)?
+No. All three options scored 0/4 when tested.
+
+
+What is good or bad about this strategy?
+This brute force strategy was bad becasuse it is inefficient and can take several iterations before a correct theory is made.
+
+
+
+
+AFTER
+
+How often do you get a solution in fewer than 20 guesses? 
+My program solves the problem in less than 20 guesses everytime its ran
+
+
+
+
+Does this change depending on the theory you test (1, 2, 3)?
+There is no change reguardless of which choice is selected
+
+
+
+
+What is good or bad about this strategy?
+This strategy is good because it will delete any guess that Assistant Jack said is wrong so it will not waste a guess to get an answer that was already shown.
